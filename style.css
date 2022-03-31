@@ -1,0 +1,23 @@
+body{
+    font: normal 18pt arial;
+    background: skyblue;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background: white;
+    width: 500px;
+    padding: 15px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+footer{
+    margin-top: 20px;
+    text-align: center;
+    font-style: italic;
+}
+
